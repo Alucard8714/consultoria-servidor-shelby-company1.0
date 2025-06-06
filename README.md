@@ -51,4 +51,4 @@ Após análise, foi recomendado o uso de **servidor em nuvem**, por oferecer:
 
 - 🧠 [Mapa Mental da Solução](https://drive.google.com/file/d/1frsRnWODYm-P0aLNoWHrz8V7x5Rwz2VI/view?usp=drive_link)  
 - 🎙️ [Podcast: Soluções de Servidores para Empresas de Logística](https://open.spotify.com/episode/4iNRGHDPtckZzWdpS6tMLo?si=Bq6c7jzWQJyABzpC1SMaYQ)  
-- ❓ [Quiz sobre Arquitetura de Computadores]()
+- ❓ [Quiz sobre Arquitetura de Computadores](https://create.kahoot.it/share/arquitetura-de-computadores/7c4de0aa-c0b4-45ce-95a2-b1ccd1dfcc03)
